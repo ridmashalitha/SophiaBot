@@ -1,7 +1,7 @@
-<h1 align="center"><b>❤ Sophia v3 ❤</b></h1>
+<h1 align="center"><b>⚔ Harry Potter Bot⚔</b></h1>
 
 
-<p align="center"><a href="https://t.me/SophiaSupport_Official"><img src="https://telegra.ph/file/f6afa44d010598c379503.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Harry_Potter_Bot_Support"><img src="https://cdna.artstation.com/p/assets/images/images/025/700/056/large/bruna-dal-re-asset.jpg?1586654713" width="400"></a></p>
 <p align="center">
   <h4 align="center"><b>A Powerful, Smart And Simple Group Manager <br> ... Written with  Pyrogram and Telethon...</b></h4>  
 
@@ -18,17 +18,14 @@
 </p>
 
 
- <b> ⭐️ Thanks to everyone who starred Sophia, That is the greatest pleasure we have ! </b> 
+ <b> ⭐️ Thanks to everyone who starred ⚔ Harry Potter Bot⚔, That is the greatest pleasure we have ! </b> 
 
 
 
-## Avaiilable on Telegram as [@SophiaSLBot](https://t.me/sophiaslbot)
+## Avaiilable on Telegram as [@HR_Harry_Potter_bot](https://t.me/HR_Harry_Potter_bot)
 
 ### Video Tutorial:
-Complete guide on deploying @SophiaSLBot's clone on Heroku.
-
-🙋‍♂️ Video by [Dihan Randila](https://youtu.be/Yyw2TfwQTSg) ☆
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Yyw2TfwQTSg)
+Complete guide on deploying @HR_Harry_Potter_bot's clone on Heroku.
 
 ### Deploy To Heroku</h4>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/Sophiabot)
@@ -37,8 +34,8 @@ Complete guide on deploying @SophiaSLBot's clone on Heroku.
 
 
 ## Join my Updates Channel & Support Chats
-<a href="https://t.me/SophiaSUPPort_official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/SophiaUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Harry_Potter_Bot_Updates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Harry_Potter_Bot_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 
@@ -60,7 +57,7 @@ from SophiaBot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 12345  # your telegram ID
-    OWNER_USERNAME = "dihanrandila"  # your telegram username
+    OWNER_USERNAME = "H_R_R_V"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
@@ -196,7 +193,7 @@ You can use [nssm](https://nssm.cc/usage) to install the bot as service on windo
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.m/SophiaSupport_Official)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.me/Harry_Potter_Bot_Updates)
 ## How to setup on Heroku 
 For starters click on this button 
 </details>  
